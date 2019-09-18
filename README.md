@@ -5,8 +5,8 @@
 2. picture-3D
 - [3D旋转图](./background/picture-3D/index.html)
 
-# CheckBox
+# CheckBox and radio
 各类按钮模板
-- [单选按钮模板](./checkbox/index.html)
+- [复选和单选按钮模板](./checkbox/index.html)
 
  
